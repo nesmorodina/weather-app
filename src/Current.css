@@ -1,0 +1,32 @@
+.Current ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.Current li {
+  display: inline;
+  padding: 30px;
+}
+
+.Current h1 {
+  line-height: 1;
+  font-size: 32px;
+}
+
+.Current h2 {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.Current h3 {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.Current i {
+  font-size: 30px;
+}
+.Current #humidity,
+#wind {
+  font-size: 22px;
+}

@@ -1,0 +1,12 @@
+.Forecast {
+  margin-top: 20px;
+}
+
+.Forecast ul {
+  list-style: none;
+  font-size: 20px;
+}
+
+.Forecast li {
+  padding: 10px;
+}

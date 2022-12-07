@@ -1,0 +1,14 @@
+.Search {
+  margin: 20px;
+}
+
+.Search .search-form {
+  width: 60%;
+  border-radius: 10px;
+  margin-left: 15px;
+  line-height: 2;
+}
+
+.Search .btn-light {
+  padding: 5px auto;
+}

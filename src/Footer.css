@@ -1,0 +1,13 @@
+.Footer .open-source {
+  text-align: center;
+}
+
+.Footer a {
+  text-decoration: underline dotted;
+  color: var(--bs-body-color);
+}
+
+.Footer a:hover {
+  color: #ec6e4c;
+  cursor: default;
+}
